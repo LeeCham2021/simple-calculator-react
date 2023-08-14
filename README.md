@@ -1,2 +1,1 @@
-# simple-calculator-react
-simple-calculator-app
+### simple-calculator-react-app
